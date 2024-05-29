@@ -4,7 +4,7 @@
 # Objective
 [Data source](https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data)
 
-* Retrive count title movie for kids in certificate 7 and certificate 12 with interval year 2000 to 2009
+* Retrive title movie for kids in certificate 7 and certificate 12 with interval year 2000 to 2009
 * <pre> To be continued</pre>
 
 # Scope
@@ -17,30 +17,30 @@
 # Result
 ## **Retrive count title movie for kids in certificate 7 and certificate 12 with interval year 2000 to 2009**
 <pre>with movie_kid_count AS(
-select year,count(title) as title_movie_for_kid 
-from movie_list 
-where certificate= '7' AND certificate ='12' or year>='2000' AND year<='2009'
-group by year
+SELECT year,count(title) movie_kid
+FROM movie_list 
+WHERE (certificate = '7' OR certificate = '12') 
+  AND year BETWEEN '2000' AND '2009'
+ group by year
 )
 select * FROM movie_kid_count </pre>
-|year|title_movie_for_kid|
-|----|-------------------|
-|2008|112|
-|2009|106|
-|2003|64|
-|2005|147|
-|2000|39|
-|2007|170|
-|2002|184|
-|2004|105|
-|2001|101|
-|2006|180|
+|title|year|genre|
+|-----|----|-----|
+|Murder Mystery|2004|Action, Comedy, Crime|
+|We Can Be Heroes|2006|Action, Comedy, Drama|
+|Jodaeiye Nader az Simin|2000|Drama|
+|Storks|2002|Animation, Adventure, Comedy|
+|Chicken Little|2009|Animation, Adventure, Comedy|
+|My Octopus Teacher|2006|Documentary, Drama|
 
-### total  movie
-<pre>select sum(title_movie_for_kid) as total_movie_kid FROM movie_kid_count 
+
+### total  movie for kid
+<pre>select sum(movie_kid) as total_movie_kid FROM movie_kid_count 
 </pre>
 |total_movie_kid|
 |---------------|
-|1208|
+|6|
+
+
 
 

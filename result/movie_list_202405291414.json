@@ -1,0 +1,4835 @@
+{
+"select title,year as title_movie_for_kid \r\nfrom movie_list \r\nwhere certificate= '7' and certificate ='12' or year>='2000' AND year<='2009'": [
+	{
+		"title" : "The Equalizer",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Pulp Fiction",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Peanut Butter Falcon",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Inception",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Dark Knight",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Migration",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Harry Potter and the Sorcerer's Stone",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Talented Mr. Ripley",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Black Phone",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Ghostbusters: Afterlife",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Ghostbusters",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Leave the World Behind",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Grease",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Lord of the Rings: The Return of the King",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Sixteen Candles",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Great Wall",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Last Stop in Yuma County",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "No Hard Feelings",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Hunger Games: The Ballad of Songbirds & Snakes",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Blended",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Schindler's List",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Old",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Mummy",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Matrix",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Forrest Gump",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Poolman",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Star Wars: Episode II - Attack of the Clones",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Bikeriders",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Hit Man",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Wolf of Wall Street",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Mad Max",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Starship Troopers",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Sleeping Dogs",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Bottoms",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Troy",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Batman",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Blade Runner 2049",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Talk to Me",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Dune",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Deadpool",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Hunger Games",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Dream Scenario",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Alien",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "American Fiction",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Humane",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Wicked Little Letters",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The 40 Year Old Virgin",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Kingdom of Heaven",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Fight Club",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Green Mile",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Crow",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Deadpool 2",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Eileen",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Mean Girls",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Star Wars: Episode IX - The Rise of Skywalker",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Mission: Impossible - Dead Reckoning Part One",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Cabrini",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Mission: Impossible",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Past Lives",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Animal",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Inglourious Basterds",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Star Wars: Episode III - Revenge of the Sith",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Star Wars: Episode VI - Return of the Jedi",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Ricky Stanicky",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Star Wars: Episode V - The Empire Strikes Back",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Everything Everywhere All at Once",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Van Helsing",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Idiocracy",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Pearl",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Gisaengchung",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "John Wick: Chapter 4",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Split",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Founders Day",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Napoleon",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Lord of the Rings: The Two Towers",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Silence of the Lambs",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Midsommar",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Spider-Man: Across the Spider-Verse",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Aquaman and the Lost Kingdom",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Tess",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Ah-ga-ssi",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Nymphomaniac: Vol. I",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Jumanji: Welcome to the Jungle",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Running Man",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Last Duel",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Fallout",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Solo: A Star Wars Story",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Green Book",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Avengers: Infinity War",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Sound of Freedom",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Army of the Dead",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Donnie Darko",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "North by Northwest",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Lolita",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "A Beautiful Mind",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Glass Onion",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Inside Out",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Il buono, il brutto, il cattivo",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Mad Max Beyond Thunderdome",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Kingsman: The Secret Service",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Kung Fu Panda",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Bound by Honor",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Knives Out",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Ocean's Eight",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Incendies",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Kaibutsu",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The VVitch: A New-England Folktale",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Wrath of Man",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Pearl Harbor",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Conjuring",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Totally Killer",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "2001: A Space Odyssey",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Superbad",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Hangover",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Harry Potter and the Deathly Hallows - Part 2",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Asphalt City",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Ratatouille",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Lady Bird",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Tenet",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "A League of Their Own",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Weird Science",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Lost in Translation",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "X-Men: The Last Stand",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Moana",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Family Plan",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Ferris Bueller's Day Off",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Jumanji",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Last Voyage of the Demeter",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Jurassic World",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Fast and the Furious",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Godzilla: King of the Monsters",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Inside Man",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Napoleon Dynamite",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Pâfekuto burû",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Man of Steel",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Bodies Bodies Bodies",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Knock Knock",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Freelance",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Dumb Money",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Sonic the Hedgehog",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Guest",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Dumb and Dumber",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Total Recall",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Now You See Me",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Abyss",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Tomorrow War",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Scouts Guide to the Zombie Apocalypse",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Toy Story",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Caddyshack",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Cashback",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Casablanca",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Thirteen",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "In Time",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Willy Wonka & the Chocolate Factory",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Beautiful Boy",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Vicky Cristina Barcelona",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Mask",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Terrifier 2",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Atonement",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Mr. & Mrs. Smith",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Sin City",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Charlie and the Chocolate Factory",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Salinui chueok",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Grand Budapest Hotel",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Lo imposible",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Beauty and the Beast",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Legend",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Black Hawk Down",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Man on Fire",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Trading Places",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "There Will Be Blood",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Wonder Woman",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Best in Show",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "RRR (Rise Roar Revolt)",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Sense and Sensibility",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Perfect Storm",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Fast and the Furious: Tokyo Drift",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Sicario: Day of the Soldado",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Predators",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Hercules",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Bad Boys for Life",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "MASH",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Contact",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Relatos salvajes",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Count of Monte Cristo",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The NeverEnding Story",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Four Weddings and a Funeral",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Dogman",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Molly's Game",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Empire Records",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Karate Kid",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Minority Report",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "It Follows",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Beauty and the Beast",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Rush Hour",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Miracle Club",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Easy A",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Man from U.N.C.L.E.",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Pixels",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Don't Breathe",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "M3GAN",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "John Wick: Chapter 3 - Parabellum",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Slumdog Millionaire",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Constantine",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Robin Hood: Prince of Thieves",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Signs",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Colossal",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Girl with the Dragon Tattoo",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Big Trouble in Little China",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "RED",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Amazing Spider-Man 2",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Poltergeist",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Maze Runner: The Scorch Trials",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "O Brother, Where Art Thou?",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "A.I. Artificial Intelligence",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Leo",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Pirates of the Caribbean: On Stranger Tides",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Hot Fuzz",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Just One of the Guys",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Larry Crowne",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Fathers & Daughters",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Pineapple Express",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "But I'm a Cheerleader",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Dressmaker",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Cool Hand Luke",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Leaving Las Vegas",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Lars and the Real Girl",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Hansel & Gretel: Witch Hunters",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Hunter Killer",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Paradise",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Furious 6",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Allegiant",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Twins",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Unhinged",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Into the Woods",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Tron",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "High Plains Drifter",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Slither",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Out-Laws",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Prince of Tides",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "He's All That",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Midway",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Little Shop of Horrors",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Mercury Rising",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Robin Hood",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Fractured",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Payback",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Ghost Ship",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Tár",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Revolutionary Road",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Hurt Locker",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Rookie of the Year",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "House of 1000 Corpses",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Mud",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "St. Elmo's Fire",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Firm",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Big Jake",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Scary Movie 2",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Downton Abbey",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Absolutely Anything",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Den of Thieves",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Saturday Night Fever",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Roman Holiday",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Scream 2",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Pride",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "A River Runs Through It",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Scary Movie 3",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Time Machine",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Sing Street",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Cube",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Booksmart",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Twin Peaks: Fire Walk with Me",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Get Smart",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Epic Movie",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Machete",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Footloose",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Stuart Little",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Carlito's Way",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Rocketeer",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Return to Oz",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Ghost in the Shell",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Munich",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "You Are So Not Invited to My Bat Mitzvah",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Outlaw King",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Taylor Swift: The Eras Tour",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Pacific Rim Uprising",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Sleepaway Camp",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Bourne Legacy",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "JFK",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Iron Giant",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Other Woman",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Jumper",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Criminal",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Richard Jewell",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Rushmore",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "AVPR: Aliens vs Predator - Requiem",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Miracle",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Mother",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Zack and Miri Make a Porno",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Monsters vs. Aliens",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Murder Mystery",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Butcher's Crossing",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Airport 1975",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Serbuan maut",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Boss Baby",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Christine",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The SpongeBob SquarePants Movie",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Rat Race",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Apartment",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Austin Powers: The Spy Who Shagged Me",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Crush",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Fanboys",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Street Fighter",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Wrestler",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Taken 2",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Haute tension",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Nightmare Before Christmas",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Step Up",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Raising Arizona",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Shakespeare in Love",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "I.S.S.",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Ever After",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Drop Dead Gorgeous",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Contractor",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Quick and the Dead",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "October Sky",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Post",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Kelly's Heroes",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Why Him?",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Æon Flux",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Friday Night Lights",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Being John Malkovich",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "French Girl",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Gake no ue no Ponyo",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Paddington",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Grindhouse",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Frozen Ground",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Hollow Man",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Austin Powers in Goldmember",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Sleepless in Seattle",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Fear Street: 1994",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Hangover Part II",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Snowman",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Look Who's Talking",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Licence to Kill",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Only God Forgives",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Begin Again",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Logan's Run",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Bruce Almighty",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Bridge on the River Kwai",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Cinderella Man",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Witches",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Sum of All Fears",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Practical Magic",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Savages",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Hustlers",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Presumed Innocent",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "L'amant",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Cocktail",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Day Shift",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Four Good Days",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Silverado",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The History Boys",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Spawn",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Network",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Bad Moms",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Arachnophobia",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Skyscraper",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "What to Expect When You're Expecting",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Olympus Has Fallen",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Ruins",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Blow-Up",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Reminiscence",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Men Who Stare at Goats",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Hugo",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Frailty",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Inferno",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "La migliore offerta",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "My Own Private Idaho",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Family",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Angry Birds Movie",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The House Bunny",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Golda",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Krull",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Enemy of the State",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Race to Glory - Audi vs Lancia",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Adventures of Tintin",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "My Sister's Keeper",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Bill & Ted's Excellent Adventure",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Jack the Giant Slayer",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Alpha Dog",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Murder Mystery 2",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Don't Look Now",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Women Talking",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Rocky II",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Pinocchio",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "We Can Be Heroes",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Kate",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Tourist",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Hercules",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Mommie Dearest",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Hitman",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Mission",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Last Starfighter",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Videodrome",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Never Back Down",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Tootsie",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Ôdishon",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Zola",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Elf",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "No Exit",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Madagascar 3: Europe's Most Wanted",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Lifeforce",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Sleeping with the Enemy",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Edge of Darkness",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Death to Smoochy",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "In the Cut",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "A Million Miles Away",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Green Lantern",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Home",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Gosford Park",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Animal Kingdom",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Hot Rod",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Ginger Snaps",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Possessor",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "G.I. Joe: The Rise of Cobra",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The French Connection",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Hitch",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Night House",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Babysitter: Killer Queen",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Into the Blue",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Underworld: Rise of the Lycans",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The 'Burbs",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "A Most Wanted Man",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "American Honey",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Fighting with My Family",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Scooby-Doo 2: Monsters Unleashed",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Non-Stop",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Girl in the Spider's Web",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Covenant",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Yes Man",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Ammonite",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Senna",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Salt",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Oculus",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Journey to the Center of the Earth",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Assassination of Jesse James by the Coward Robert Ford",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "A Nightmare on Elm Street",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "I Came By",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Congo",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Magnum Force",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Speed 2: Cruise Control",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Crimson Peak",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Belko Experiment",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Artist",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Bodyguard",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Before We Go",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Star Trek VI: The Undiscovered Country",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Enola Holmes 2",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Kaze tachinu",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Escape from Pretoria",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Night at the Museum: Battle of the Smithsonian",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Lake House",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Shallow Grave",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "How the Grinch Stole Christmas",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Loved Ones",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Inside Llewyn Davis",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Remains of the Day",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Seraphim Falls",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Runaway Jury",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "A Ghost Story",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Mexican",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Anatomy of a Murder",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Half Nelson",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "The Imaginarium of Doctor Parnassus",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Master Gardener",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "The Monuments Men",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Malibu's Most Wanted",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "The Lost Daughter",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "National Lampoon's Christmas Vacation",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Summer of Sam",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Backdraft",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Chloe",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Father Stu",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Kramer vs. Kramer",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Far from the Madding Crowd",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Witness for the Prosecution",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Jodaeiye Nader az Simin",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Crossroads",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "American Reunion",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "The BFG",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Hostel: Part II",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "We Have a Ghost",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "FernGully: The Last Rainforest",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Amores perros",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "P.S. I Love You",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "10",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "For Your Eyes Only",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Hope Floats",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "The Son",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Solaris",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Starman",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "No Way Out",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Blood Simple",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Rush Hour 2",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Do lok tin si",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Lake Placid",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "The Happening",
+		"title_movie_for_kid" : "2000"
+	},
+	{
+		"title" : "Dear Evan Hansen",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Dennis the Menace",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Pennies from Heaven",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Home Alone 2: Lost in New York",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Idle Hands",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Joe Dirt",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "First Knight",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Man Who Knew Too Much",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Bullitt",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Blow Out",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Sorry to Bother You",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Unbearable Lightness of Being",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Woman in Black",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Machine",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Collector",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Willy's Wonderland",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "What's Your Number?",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Alice Through the Looking Glass",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Bright",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Fool's Gold",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Crazies",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Mallrats",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Freedom Writers",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Juliet, Naked",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Bubble Boy",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Peter Pan & Wendy",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Just Friends",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Synecdoche, New York",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Flight of the Navigator",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Every Which Way But Loose",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Eragon",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Life Itself",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Kill Room",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Causeway",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Luckiest Girl Alive",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Mortal Instruments: City of Bones",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "25th Hour",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Flyboys",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "RoboCop 3",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Three Stooges",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "V\/H\/S",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Seven Years in Tibet",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Superman II",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The King of Staten Island",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Lords of Chaos",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Walking Tall",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Primer",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "DOA: Dead or Alive",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "4: Rise of the Silver Surfer",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Judgment at Nuremberg",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Innerspace",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Bank of Dave",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Wild Mountain Thyme",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Art of Racing in the Rain",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Evan Almighty",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "I Origins",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Accused",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Beautiful Girls",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Midway",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Killer Joe",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Garden State",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Dead Silence",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "American Star",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Dead Ringers",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Halloween",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Big Fat Liar",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Parent Trap",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Nocturne",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Cleopatra",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Greta",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Four Brothers",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Upside of Anger",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Ghost and the Darkness",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Straight Story",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Happiness",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Scary Movie 4",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Somebody I Used to Know",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Frida",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Roma",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Love Story",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Deep End of the Ocean",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Theater Camp",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "T2 Trainspotting",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Upside",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Tenacious D in The Pick of Destiny",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Storks",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "What Women Want",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "A Good Year",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Night Teeth",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Chariots of Fire",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Wild Wild West",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Selena",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Winter's Tale",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Little Nicky",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Police Academy 2: Their First Assignment",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Disenchanted",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Toxic Avenger",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Bucket List",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Frequency",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Signal",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Faster",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Midnight Run",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Rush Hour 3",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Once Upon a Time in Mexico",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Americana",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Over the Top",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Spy Kids 2: Island of Lost Dreams",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Grey",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Chasing Amy",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Kill the Irishman",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Dangerous Liaisons",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Dig",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Ghost World",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Searching",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Free Willy",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Doragon Bôru Sûpâ Burorî",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Wild Bunch",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Man on the Moon",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Uptown Girls",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "R.I.P.D.",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Jaws: The Revenge",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Lethal Weapon 2",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Dragged Across Concrete",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Maggie Moore(s)",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Day of the Dead",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Armageddon Time",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Dangerous Minds",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Outbreak",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Thomas Crown Affair",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Billionaire Boys Club",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Dead Zone",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "No One Gets Out Alive",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Midnight Meat Train",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Working Girl",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Society",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Cobra",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Life of David Gale",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Kickboxer",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Adventures of Baron Munchausen",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Aquamarine",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Haunting",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Snake Eyes",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Out of the Blue",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Walkabout",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Conviction",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Replacements",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Ben-Hur",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Fisher King",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Vengeance",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Last Seduction",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Patton",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Last King of Scotland",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Son of the Mask",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Midnight in the Garden of Good and Evil",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Seven Pounds",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Damage",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Midnight Express",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "House of Sand and Fog",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Horton Hears a Who!",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Half Baked",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Assistant",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Jaws 3-D",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Time Machine",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Marley & Me",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Mosquito Coast",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Naked Gun 33 1\/3: The Final Insult",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "La dolce vita",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "City Lights",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Resident Evil: Retribution",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Eddie the Eagle",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Fletch",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Solomon Kane",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Transporter 2",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Maid in Manhattan",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "How It Ends",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Long Kiss Goodnight",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "A Dog's Journey",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Koroshiya 1",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Side Effects",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Across the Universe",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Hot Summer Nights",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Meari to majo no hana",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "End of Days",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Duff",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Just Mercy",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Midnight Sky",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Stranger Than Fiction",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "It Lives Inside",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Bride of Chucky",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Soft & Quiet",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Tayna pechati drakona",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Tully",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Official Secrets",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Hot Shots! Part Deux",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Dolores Claiborne",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "City of Ember",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Mongol",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "It's Kind of a Funny Story",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Mafia Mamma",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "So I Married an Axe Murderer",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Mary Shelley's Frankenstein",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Paper Towns",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Hail, Caesar!",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Paint",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "It Could Happen to You",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "In the Line of Fire",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Cha Cha Real Smooth",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Buried",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Mermaids",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Outlander",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Where Eagles Dare",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Amistad",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Lethal Weapon 3",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Jeremiah Johnson",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Captain Underpants: The First Epic Movie",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Damien: Omen II",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "A Christmas Story",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Thank You for Smoking",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Pink Floyd: The Wall",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Ride Along",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Skeleton Key",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Starsky & Hutch",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Stand and Deliver",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Bandit",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "3 Men and a Baby",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Hoodwinked!",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Legend of Billie Jean",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Airplane II: The Sequel",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Bringing Out the Dead",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "A Passage to India",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Gamer",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Those Who Wish Me Dead",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Station Agent",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Exception",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Thirteenth Floor",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Naked Lunch",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Report",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Single White Female",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Mending the Line",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Singles",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Inside Job",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Chicken Little",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Daybreakers",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Trust",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Because of Winn-Dixie",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Get Shorty",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Harriet",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Dark Harvest",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Zoolander 2",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Lady and the Tramp",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Devil in a Blue Dress",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Before I Go to Sleep",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Jack Ryan: Shadow Recruit",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Pumpkinhead",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Hard Target",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The War of the Worlds",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Serbuan maut 2: Berandal",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "White Men Can't Jump",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "What About Bob?",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Convoy",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Just My Luck",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Get Hard",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Up in Smoke",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Star Trek: Generations",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "My Octopus Teacher",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "A Perfect Getaway",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Critters",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Johnny English Reborn",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Hubie Halloween",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Vampires Suck",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Smoke",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Wildflower",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Stuber",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Underdoggs",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Curious George",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Sisters",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Clifford the Big Red Dog",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Stone Cold",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Wish Upon",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Flags of Our Fathers",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Used Cars",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Kairo",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "80 for Brady",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "What a Girl Wants",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Duchess",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "When a Stranger Calls",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Ice Road",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Backcountry",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Corner Office",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Black Rain",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Piranha",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Lionheart",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Where'd You Go, Bernadette",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "No One Lives",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "C'mon C'mon",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Doubt",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Legend of Zorro",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Slaughter Rule",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Firestarter",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Arthur et les Minimoys",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Judas and the Black Messiah",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Imposter",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Stronger",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Kentucky Fried Movie",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Swallow",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Wedding Date",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Curse of Chucky",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Life as We Know It",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Behaving Badly",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "You Only Live Twice",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Paper Moon",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Colors",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Deadgirl",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Gold",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Jade",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Pump Up the Volume",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "If Beale Street Could Talk",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Rum Diary",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Jack and Jill",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Titan A.E.",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Prophecy",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Touch of Evil",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Bird Box: Barcelona",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Candy",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Mr. Brooks",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Executive Decision",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Money Pit",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Return to Me",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Absolute Power",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Crazy Heart",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "This Boy's Life",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Good Son",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Taking of Pelham 123",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Host",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Big Year",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "A Walk in the Woods",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Jason X",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Saw VI",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Miracle Season",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Exorcist III",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "My Tutor",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Child's Play 2",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Bad Taste",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Loft",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Domino",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Race",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "From Paris with Love",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Unfriended",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Le locataire",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Henry & June",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Professor Marston and the Wonder Women",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "One Eight Seven",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Don't Worry, He Won't Get Far on Foot",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Till",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Black Knight",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "K-PAX",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Don't Say a Word",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Bounty Hunter",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "El Topo",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Cave",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Ghost Dog: The Way of the Samurai",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "28 Days",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Highlander II: The Quickening",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Veronica Mars",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Failure to Launch",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Spread",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Takers",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Hidalgo",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Tian jiang xiong shi",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Dreamgirls",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Great Mouse Detective",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Beyond the Black Rainbow",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "I Know Who Killed Me",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Compliance",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Open Water",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Five Easy Pieces",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Appaloosa",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The American President",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Battle of the Sexes",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Joan of Arc",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Lone Star",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Going the Distance",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Our Friend",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Bolero",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Doctor Dolittle",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Radio",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Wicker Man",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Transformers: The Movie",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Timecop",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "El mariachi",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Dumbo",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "High-Rise",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Joe",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Shaft",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Colonia",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Bakjwi",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Girl with a Pearl Earring",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Jing wu men",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Step Up Revolution",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Loving Vincent",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Taps",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Swept Away",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Heaven Is for Real",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Arrival",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Sergio",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Bug",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Breakin'",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Django",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Jûsan-nin no shikaku",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Selma",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Kung Pow: Enter the Fist",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Awake",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Vast of Night",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Evita",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "I Love You, Beth Cooper",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Best of Enemies",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Dave",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Cape Fear",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Jacket",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "After Death",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Vacation Friends",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Junior",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Sing Sing",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "USS Indianapolis: Men of Courage",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Jobs",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "A Nightmare on Elm Street: The Dream Child",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Howards End",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Game Plan",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Man Who Would Be King",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Bullet to the Head",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Safety Not Guaranteed",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Tangerine",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Double Impact",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Arkansas",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Employee of the Month",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Hills Have Eyes II",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Pride and Glory",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Mighty Joe Young",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Above the Law",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Breach",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Freddy's Dead: The Final Nightmare",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Last Vegas",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Darkest Hour",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "40 Days and 40 Nights",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Run All Night",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "'71",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Son in Law",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Two Weeks Notice",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Bowfinger",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Los cronocrímenes",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "The Invisible Woman",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Personal Shopper",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Fallen",
+		"title_movie_for_kid" : "2007"
+	},
+	{
+		"title" : "Pusher",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Thoroughbreds",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Insidious: The Last Key",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "G-Force",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Informant!",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "They",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Mr. Holland's Opus",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Arlington Road",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Cyrano",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Enough Said",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Kicking and Screaming",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Phantoms",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Fever Pitch",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Before I Wake",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Spies Like Us",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Playing with Fire",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Tristan + Isolde",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Windtalkers",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Girl with All the Gifts",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Monkeybone",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Season of the Witch",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "K-19: The Widowmaker",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "My Little Pony: The Movie",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Crooked House",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Child's Play 3",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "The Omega Man",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Silver Bullet",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Bitch Slap",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Pete's Dragon",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Falling in Love",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Airborne",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Radioactive",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Better Than Chocolate",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Little Vampire",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Throw Momma from the Train",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Act of Valor",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "My Bodyguard",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Collateral Damage",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Fear Street: 1666",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Tomcats",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Frenzy",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Above Suspicion",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Jodorowsky's Dune",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Sky Captain and the World of Tomorrow",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "American Woman",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Un prophète",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "On the Rocks",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Good Girl",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "LBJ",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Proposition",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Ruthless People",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Snow Dogs",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "While We're Young",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Cowboy Bebop: Tengoku no tobira",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Rescue Dawn",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Outland",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Big Game",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Death Wish II",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The First Time",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "The Secret Life of Bees",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Forsaken",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "6 Days",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Shooting Stars",
+		"title_movie_for_kid" : "2001"
+	},
+	{
+		"title" : "Brooklyn's Finest",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Suspect Zero",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "It's a Wonderful Knife",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Earthquake",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Car",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Umma",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "We Are Marshall",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Biutiful",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The House That Dripped Blood",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Dream Lover",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Like Crazy",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Elles",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Half of It",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Otherhood",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Paris, je t'aime",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Kokuriko-zaka kara",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Gods and Generals",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Turning",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Ich bin dein Mensch",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Saul fia",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "The Avengers",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Magic in the Moonlight",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Find Me Guilty",
+		"title_movie_for_kid" : "2003"
+	},
+	{
+		"title" : "Loaded Weapon 1",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Stone",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Laundromat",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Como agua para chocolate",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Force 10 from Navarone",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Are We There Yet?",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Book of Shadows: Blair Witch 2",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Dolemite Is My Name",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Stomp the Yard",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Thanks for Sharing",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Left Behind",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Boss",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Witcher: Nightmare of the Wolf",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Innkeepers",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "W.E.",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Kin",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Striking Distance",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Madea Goes to Jail",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "12 Mighty Orphans",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Regression",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Afternoon Delight",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Black Sheep",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Beurokeo",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Family That Preys",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Songbird",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Unforgettable",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Barnyard",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Secret Admirer",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Shutter",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "Chupa",
+		"title_movie_for_kid" : "2008"
+	},
+	{
+		"title" : "The Education of Fredrick Fitzell",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Last Man Standing",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Virtuoso",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Remember",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Big Momma's House 2",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Magic",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Gigi",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Nighthawks",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Planes: Fire & Rescue",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "I Saw the Light",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Frost\/Nixon",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Loving",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Bad Grandpa",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Jungle Fever",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Crater",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Switch",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Inferno",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Da 5 Bloods",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Bratz",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Police Academy 6: City Under Siege",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "London",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "American Dreamer",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Honeymoon",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Ghosts of War",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Death and the Maiden",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Soul Man",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Sugarland Express",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "Krampus",
+		"title_movie_for_kid" : "2005"
+	},
+	{
+		"title" : "The Kid Detective",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Anacondas: The Hunt for the Blood Orchid",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "World's Greatest Dad",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "An Unfinished Life",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Blinded by the Light",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "A Madea Family Funeral",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Beavis and Butt-Head Do America",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "xXx: State of the Union",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Contraband",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Fireproof",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Argentina, 1985",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Black Bear",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Summerland",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Offering",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Tillsammans",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Weather Man",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Barbershop",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "She-Devil",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Look Who's Talking Now",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Ironclad",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The House",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Babylon A.D.",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "Vacation Friends 2",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The White Tiger",
+		"title_movie_for_kid" : "2009"
+	},
+	{
+		"title" : "The Song of Names",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Bronze",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Okuribito",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Mother's Day",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Heisei tanuki gassen ponpoko",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Easy Money",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Killer Inside Me",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Reindeer Games",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Planet 51",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Judgment Night",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Happytime Murders",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Slacker",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Strictly Ballroom",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Les choristes",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Queen & Slim",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Thing Called Love",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Final Fantasy: The Spirits Within",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "The Monster",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "My Week with Marilyn",
+		"title_movie_for_kid" : "2004"
+	},
+	{
+		"title" : "Her Smell",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Second Best Exotic Marigold Hotel",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Dreamland",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Jexi",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Kitchen",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "A Private War",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Little Boy",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Jackass: The Movie",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Smoke Signals",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Inbetweeners 2",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "When You Finish Saving the World",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Brahmastra Part One: Shiva",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Efter brylluppet",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Dracula",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The House on Sorority Row",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Autómata",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Are You Here",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Admission",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Divine Secrets of the Ya-Ya Sisterhood",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Spontaneous",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Kidnap",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Veer-Zaara",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Shadow of the Vampire",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Reno 911!: Miami",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "One Piece Film: Red",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Company You Keep",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Alpinist",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Forces of Nature",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "13 Ghosts",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "The Soloist",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Just Cause",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Triple Threat",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Untamed Heart",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Hollywoodland",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Bowling for Columbine",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Dog Gone",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Revenge of the Nerds II: Nerds in Paradise",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Deep Cover",
+		"title_movie_for_kid" : "2006"
+	},
+	{
+		"title" : "Don't Be Afraid of the Dark",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "I Kill Giants",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Hostage",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Far from the Madding Crowd",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "A Map of the World",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Moms' Night Out",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Share",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Super Troopers 2",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Disconnect",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Devil's Due",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Passing",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Feardotcom",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Youth Without Youth",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Stuart Little 2",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Fair Game",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "Rita, Sue and Bob Too",
+		"title_movie_for_kid" : "2002"
+	},
+	{
+		"title" : "American Murder: The Family Next Door",
+		"title_movie_for_kid" : "2002"
+	}
+]}
