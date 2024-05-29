@@ -6,6 +6,7 @@
 
 * Retrive title movie for kids in certificate 7 and certificate 12 with interval year 2000 to 2009
 * Retrive and count best movie for kid all year this data from 1971 - 2021
+* Retrive most director with movie for kids
 
 # Scope
 * Analyst data
@@ -59,6 +60,51 @@ WHERE (certificate = '7' OR certificate = '12') AND rating > 8</pre>
 |-------------------------------|
 |4|
 
+## Director name who direct movie for kid
+<pre>
+select director from movie_list m
+WHERE (certificate = '7' OR certificate = '12') 
+</pre>
+|director|
+|--------|
+|Thomas Vinterberg|
+|Jeff Fowler|
+|Rose Glass|
+|Lars von Trier|
+|Lorcan Finnegan|
+|Kyle Newacheck|
+|Robert Rodriguez|
+|Asghar Farhadi|
+|Jared Stern|
+|Nicholas Stoller|
+|Tony Cervone|
+|Norman Ferguson|
+|Mark Dindal|
+|Niki Caro|
+|Miguel Arteta|
+|Trish Sie|
+|Pippa Ehrlich|
+|Kirk DeMicco|
+|Sergio Pablos|
+|Bertie Ellwood|
+|Charles Kinnane|
+|Chris Appelhans|
+|Frank Coraci|
+|Tim Hill|
+|Harry Cripps|
+|Steven K. Tsuchida|
+|Will Gluck|
+|Jude Weng|
+|Glen Keane|
+
+### Total data director directed movie for kid
+<pre>
+select count(director) as count_director_movie_for_kid from movie_list 
+WHERE (certificate = '7' OR certificate = '12') 
+</pre>
+|count_director_movie_for_kid|
+|----------------------------|
+|29|
 
 
 
